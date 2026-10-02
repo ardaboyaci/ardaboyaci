@@ -11,4 +11,4 @@ I'm a Computer Programming student and software intern at [Smart Elephant](https
 
 Currently exploring: self-healing CI/CD automation & watchdog systems on GitHub Actions.
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/arda-boyacı-002a94358/) · [Upwork](https://www.upwork.com/freelancers/~01bc624c4cc7942092)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/ardaboyaci/) · [Upwork](https://www.upwork.com/freelancers/~01bc624c4cc7942092)
