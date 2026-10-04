@@ -1,4 +1,4 @@
-# Arda Boyacı: Backend & deployment (MySQL, Docker, Coolify)
+# Backend & deployment (MySQL, Docker, Coolify)
 
 I'm a software engineering intern at Smart Elephant and a Computer Programming student. Most of my code is client work, so the repositories are private.
 
